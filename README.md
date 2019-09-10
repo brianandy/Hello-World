@@ -20,12 +20,11 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-```
 x<- 3
 Y<- 4
 j<- x+Y
 j
-````
+
 
 **Bold** and _Italic_ and `Code` text
 
